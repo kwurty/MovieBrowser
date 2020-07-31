@@ -1,0 +1,16 @@
+.movies {
+    flex-basis: 80%;
+    padding: 20px 0;
+    margin: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0;
+    margin: 0;
+  }
+
+.pages {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 20px;
+}
